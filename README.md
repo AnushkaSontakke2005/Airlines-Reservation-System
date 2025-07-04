@@ -55,6 +55,17 @@ airline-reservation-system/
 | Python       | Streamlit, Pandas|
 | Version Ctrl | Git, GitHub      |
 
+## 🔄 C++ vs Python Features
+
+| Feature             | C++ Console App     | Python Streamlit App |
+|---------------------|---------------------|------------------------|
+| Booking Tickets     | ✅                  | ✅                     |
+| Cancel Reservation  | ✅                  | ✅                     |
+| Modify Seat         | ✅                  | ✅                     |
+| UI/UX               | ❌ (Text only)      | ✅ (Web Interface)     |
+| Data Export         | ❌                  | ✅ (CSV support)       |
+
+
 ## 🚀 How to Run
 
 ### 🔹 Run Python Streamlit App
@@ -77,15 +88,5 @@ cd cpp
 g++ main.cpp -o airline
 # Step 3: Run the program
 ./airline
-
-## 🔄 C++ vs Python Features
-
-| Feature             | C++ Console App     | Python Streamlit App |
-|---------------------|---------------------|------------------------|
-| Booking Tickets     | ✅                  | ✅                     |
-| Cancel Reservation  | ✅                  | ✅                     |
-| Modify Seat         | ✅                  | ✅                     |
-| UI/UX               | ❌ (Text only)      | ✅ (Web Interface)     |
-| Data Export         | ❌                  | ✅ (CSV support)       |
 
 
