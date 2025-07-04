@@ -16,21 +16,6 @@ This hybrid project simulates real-world flight booking systems — allowing use
 > ✅ Uses Pandas for managing booking data  
 > ✅ Optional C++ CLI backend included for offline/terminal use
 
----
-
-## 📁 Folder Structure
-
-airline-reservation-system/
-│
-├── Python_Version/ # 🌐 Python Streamlit Web App
-│ ├── ARSpy.py # Main Streamlit UI
-│ └── requirements.txt # Python dependencies
-│
-├── CPP_Version/ # 🖥️ Optional: C++ CLI Backend
-│ └── main.cpp
-│
-├── README.md
----
 ## 🔧 Features
 
 ### 🟢 Python (Streamlit) Features
