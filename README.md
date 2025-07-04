@@ -66,10 +66,16 @@ airline-reservation-system/
    `pip install -r requirements.txt`
 4. Launch the app  
    `streamlit run ARSpy.py`
-### 🔹Run C++ Console Version
-
+   
+## 🛠️ How to Compile and Run for cpp
+### 🔹 Using `g++` (Linux, macOS, Windows with MinGW)
+1.Open your terminal and run:
+```bash
+# Step 1: Navigate to the project directory
 cd cpp
+# Step 2: Compile the program
 g++ main.cpp -o airline
+# Step 3: Run the program
 ./airline
 
 ## 🔄 C++ vs Python Features
