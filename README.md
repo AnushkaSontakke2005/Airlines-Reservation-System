@@ -55,7 +55,7 @@ This hybrid project simulates real-world flight booking systems — allowing use
 
 ### 🔹 Run Python Streamlit App
 1. Clone the repository  
-   `git clone https://github.com/yourusername/airline-reservation-system.git`
+   `git clone https://github.com/AnushkaSontakke2005/airline-reservation-system.git`
 2. Navigate to the Python app  
    `cd airline-reservation-system/Python Version`
 3. Install dependencies  
